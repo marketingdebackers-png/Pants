@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Stylist",
+  "description": "An AI-powered application to generate professional e-commerce product photos. Upload images of your product and a reference style image, and the AI will create a high-quality, stylized product shot for your online store.",
+  "requestFramePermissions": []
+}
